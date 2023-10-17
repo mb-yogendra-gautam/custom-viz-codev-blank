@@ -1,1 +1,0 @@
-looker.plugins.visualizations.add({create:function(e,n){},updateAsync:function(e,n,i,t,a,d){n.innerHTML="";var c=document.createElement("div");c.innerText="Elizabeth!",n.appendChild(c),d()}});
